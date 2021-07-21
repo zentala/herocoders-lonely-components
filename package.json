@@ -1,0 +1,23 @@
+{
+  "name": "herocoders-lonely-components",
+  "version": "0.0.1",
+  "description": "Jira integration for retriving components without the lead and counting connected issues. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zentala/herocoders-lonely-components.git"
+  },
+  "keywords": [
+    "Jira", "components", "issues", "HeroCoders"
+  ],
+  "author": "Pawel Zentala <zentala@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/zentala/herocoders-lonely-components/issues"
+  },
+  "homepage": "https://github.com/zentala/herocoders-lonely-components#readme"
+}
